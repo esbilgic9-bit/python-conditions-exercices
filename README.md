@@ -35,6 +35,6 @@ This repository contains several mini-projects that demonstrate how to control p
 
 ---
 
-📝 Credits
+## 📝 Credits 
 ​Exercises developed during the Octucode Python Programming Course.
 ​Developed by: [Amal Lotfi]
