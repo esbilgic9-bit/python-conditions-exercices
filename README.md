@@ -1,25 +1,40 @@
-Python Conditional Logic Exercises 🐍
-​A collection of Python scripts focused on mastering Conditional Logic (If-Else), user input handling, and comparison operators. These exercises are part of my journey in learning programming fundamentals with Octucode.
-​📋 Features & Learning Goals
-​This project demonstrates the implementation of various decision-making scenarios in Python:
-​Password Verification System: Basic string comparison and access control.
-​User Choice Handling: Using if-elif-else to manage multiple string inputs (Yes/No/Maybe).
-​Number Guessing Challenge: Simple integer comparison logic.
-​Chair Range Check: Practical use of comparison operators (==, !=, >, <) to determine winners based on input.# python-conditions-exercices
-​🛠️ Technical Concepts Used
-​User Interaction: Using input() to receive data.
-​Data Casting: Converting string inputs to integers using int().
-​Logical Operators:
-​== (Equal to)
-​!= (Not equal to)
-​> & < (Greater than / Less than)
-​Flow Control: Branching logic to create interactive CLI (Command Line Interface) applications.
-​🚀 How to Run
-1. Ensure you have Python 3.x installed.
-2. Clone this repository or download the files.
-3. Run the script in your terminal:
-python python-conditional-logic-exercices.py
+# Python Conditional Logic Exercises 🐍
+
+A collection of interactive Python scripts designed to practice **Conditional Logic**, user input handling, and comparison operators. These exercises were developed as part of my learning journey with **Octucode**.
+
+---
+
+## 📋 Project Overview
+This repository contains several mini-projects that demonstrate how to control program flow using `if`, `elif`, and `else` statements.
+
+### Key Features:
+* **Password Verification:** String matching for secure access.
+* **User Choice Handling:** Managing multiple inputs (Yes/No/Maybe).
+* **Number Guessing:** Integer comparison logic for interactive games.
+* **Chair Range Check:** Using different operators (`==`, `!=`, `>`, `<`) to determine outcomes.
+
+---
+
+## 🛠️ Technical Skills Demonstrated
+* **Input Handling:** Using `input()` to interact with users.
+* **Data Casting:** Converting string inputs to integers using `int()`.
+* **Comparison Operators:**
+    * `==` (Equal to)
+    * `!=` (Not equal to)
+    * `>` & `<` (Greater/Less than)
+* **Control Flow:** Building decision-making logic in Python.
+
+---
+
+## 🚀 How to Run
+1. Make sure you have **Python 3.x** installed.
+2. Clone this repository or download the `.py` files.
+3. Run the scripts using your terminal:
+   ```bash
+   python python-conditional-logic-exercices.py
+
+---
 
 📝 Credits
-​These exercises were developed during the Octucode Python programming course.
-​Developed by: [ Amal Lotfi]
+​Exercises developed during the Octucode Python Programming Course.
+​Developed by: [Amal Lotfi]
